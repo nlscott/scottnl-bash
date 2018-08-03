@@ -1,0 +1,15 @@
+{
+  "name": "scottnl-bash",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A colorful bash syntax",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/scottnl-bash",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
